@@ -4,9 +4,9 @@
   "description": "learning tests with mocha",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha *_test.js"
   },
-  "author": "",
+  "author": "Szymon Warszawa",
   "license": "ISC",
   "dependencies": {
     "mocha": "^8.2.1"
